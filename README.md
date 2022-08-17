@@ -44,3 +44,7 @@ SO THAT I can publish articles, blog posts, and my thoughts and opinions
 
 
 ## Mock-Up
+
+![](img/Snapshot.jpg)
+
+![](img/Snapshot(2).jpg)
