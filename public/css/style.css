@@ -1,0 +1,103 @@
+* {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 2px;
+    padding: 2px; 
+  }
+
+body {
+    scroll-behavior: smooth;
+    margin: 0;
+    padding: 0;
+
+  }
+  
+
+
+  
+  .homepage-header a {
+    color: black;
+    display: inline-block;
+    text-decoration: none;
+    border: solid black 2px;
+    padding: 15px 75px 15px 75px;
+    overflow-y: auto;
+  }
+  
+  .nav-items {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding-bottom: 5px;
+  }
+
+  .comTitle {
+    padding: 2px;
+    margin: 2px; 
+    font-size: 15px;
+    font-weight: bolder; 
+  }
+
+  .card-yes {
+    background-color: rgb(154, 154, 178);
+    padding: 2px;
+    margin: 2px;
+  }
+
+
+  .form-input {
+    width: 90%;
+  }
+
+  .postTitle {
+    font-weight: bolder;
+    font-size: 40px; 
+  }
+
+  .posted-by {
+    font-size: 15px;
+    font-style: italic;
+  }
+
+  ul {
+    list-style: none;
+  }
+
+  #new-comment-form {
+    background-color:rgb(247, 247, 232);
+  }
+
+  #new-post-card {
+    border-color:black;
+    border-style:solid;
+    margin: 2px;
+    padding: 2px; 
+    border-radius: 15px; 
+    background-color:rgb(231, 221, 221);
+  }
+
+  .edit-post-form {
+    border-style: solid;
+    border-color:rgb(154, 154, 178);
+    border-radius: 15px;
+    margin: 2px;
+    padding: 2px; 
+    background-color:rgb(231, 221, 221);
+    font-size: 15px;
+  }
+
+  .each-post {
+    margin: 2px;
+    padding: 2px; 
+    border-style: solid; 
+    border-radius: 10px; 
+  }
+
+  .btn {
+    margin: 2px;
+    padding: 2px;
+  }
+
+  .editing{
+    font-weight: bolder;
+    font-size: 20px; 
+  }
